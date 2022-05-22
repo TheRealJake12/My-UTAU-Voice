@@ -1,0 +1,5 @@
+name=TheRealJake_12
+author=TheRealJake_12
+version=1.0
+sample=testexample.wav
+image=image.bmp
